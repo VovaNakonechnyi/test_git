@@ -1,0 +1,9 @@
+@mixin form-elements-margin {
+  margin: 1rem 0 0 0;
+}
+.create-page {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

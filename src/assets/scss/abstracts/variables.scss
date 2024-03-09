@@ -1,0 +1,15 @@
+$primary: hsla(160, 100%, 37%, 1);
+$primary_bg: hsla(160, 100%, 37%, 0.397);
+
+$white: white;
+$light_white: rgba(255, 255, 255, 0.7);
+
+$grey: #464646;
+
+$grid-breakpoints: (
+  xs: 0,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
